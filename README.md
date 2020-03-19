@@ -30,6 +30,10 @@
 ## Running the file:
 * Run the main.py file in CMD Windows / Terminal (MAC)
 
+## Result:
+
+![Vote-Output](resources/counting_votes_output.jpg)
+
 ## Author
 
 * **Johneson Giang** - *Individual Project* - [Github](https://github.com/jhustles)
