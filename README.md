@@ -29,3 +29,11 @@
 
 ## Running the file:
 * Run the main.py file in CMD Windows / Terminal (MAC)
+
+## Author
+
+* **Johneson Giang** - *Individual Project* - [Github](https://github.com/jhustles)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
