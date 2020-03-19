@@ -7,6 +7,9 @@
 
 ### Prerequisites
 
-- Python 3
+* Python 3
 
+## Getting Started
+
+* The poll data is called [election_data.csv](resources/election_data.csv).
 
